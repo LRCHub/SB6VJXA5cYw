@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "HAN \"VOLCANO\" | [Stray Kids : SKZ-RECORD]",
+  "base_artist": "Stray Kids",
+  "createdAt": "2025-12-01T03:08:48.877337Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Han-Tyumi, the Confused Cyborg",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Han-Tyumi,_the_Confused_Cyborg_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Han-Tyumi the Confused Cyborg",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Han-Tyumi_the_Confused_Cyborg_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Meg Ække Han",
+      "artist": "Svartepetter",
+      "has_synced": false,
+      "path": "select/03_Meg_Ække_Han_Svartepetter.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rop Høyt (feat. Mats Dawg, Megafon, Han:Deif, Oter & Klisne Fingra)",
+      "artist": "Hålogalandslaget",
+      "has_synced": true,
+      "path": "select/04_Rop_Høyt_(feat._Mats_Dawg,_Megafon,_Han_Deif,_Oter_&_Klisne_Fingra)_Hålogalandslaget.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Como Han Pasado Los Años",
+      "artist": "Mariachi Vargas De Tecalitlan",
+      "has_synced": true,
+      "path": "select/05_Como_Han_Pasado_Los_Años_Mariachi_Vargas_De_Tecalitlan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Me Han Contado De Ti",
+      "artist": "Los Muecas",
+      "has_synced": false,
+      "path": "select/06_Me_Han_Contado_De_Ti_Los_Muecas.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Como Han Pasado los Años",
+      "artist": "Julio Iglesias",
+      "has_synced": true,
+      "path": "select/07_Como_Han_Pasado_los_Años_Julio_Iglesias.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Como han pasado los anos",
+      "artist": "Julio Iglesias",
+      "has_synced": false,
+      "path": "select/08_Como_han_pasado_los_anos_Julio_Iglesias.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Su lang mer uns noch han",
+      "artist": "Cat Ballou",
+      "has_synced": true,
+      "path": "select/09_Su_lang_mer_uns_noch_han_Cat_Ballou.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Los Poetas Han Muerto",
+      "artist": "Avalanch",
+      "has_synced": true,
+      "path": "select/10_Los_Poetas_Han_Muerto_Avalanch.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Los Poetas Han Muerto",
+      "artist": "Avalanch",
+      "has_synced": true,
+      "path": "select/11_Los_Poetas_Han_Muerto_Avalanch.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Han‐Tyumi, the Confused Cyborg",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/12_Han‐Tyumi,_the_Confused_Cyborg_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "HAN \"VOLCANO\" | [Stray Kids : SKZ-RECORD]",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/pl_HAN__VOLCANO____[Stray_Kids___SKZ-RECORD]_Stray_Kids.txt"
+    }
+  ]
+}
